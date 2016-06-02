@@ -1,0 +1,12 @@
+NPC1:Hello~
+NPC2:Hi~
+NPC1:This is Text
+NPC2:This is more Text
+
+
+
+This is even more text.
+Text more
+blah blah
+
+
